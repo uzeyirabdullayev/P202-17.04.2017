@@ -1,0 +1,26 @@
+1. Imperative paradigm - Emr paradigmasi.
+ Emr paradigmasi dedikde bir programlama dilindeki emirlerin setir-setir emirlerden ibaret olmasi nezerde tutulur. Meselen bir robota emr veresi olsaq:
+ Qolunu 10 derece saga dondur
+ 2 metre gez
+ Qolunu 20 derece sola dondur
+
+Kimi emirleri siralamaq gerekecekdi. Bu emirlere bezi menbelerde prosedur adi verilmektedir. Buradaki prosedurda anlatilmaq istenen dondurulme komandasinin alt emirlerinden ibaretdir. Meselen robotun hansi derece ile bedenini tutacagi ve ya qolun nece hereket edeceyi kimi emirler bu alt prosedurlarda qeyd olunur.
+Emirli paradigmalarda heablamanin nece aparilacagi onemlidir. Bu paradigma kompyuterin donanimina en uygun olanidir. Hardasa butun kompyuterlerin donanimini masin kodunu islede bilen terzde dizayn edilmisdir. Yaddasa verilenler isledilerek emeliyyatlar aparilir ve netice yene yaddasin bir bolgesine qoyulur. Bu sebebden programin hansi addima ulasdigi yaaddasin iceriyinden anlasilir.
+
+2. Functional paradigm - Funksional paradigma.
+ Funksional paradigma hazirda demek olarki butun programlasdirma dillerinde istifade olunmaqdadir. Bu paradigma riyazi funksiyalarda olduguna benzer bir sekilde alt programlar tanimlanmaqda ve bu alt programlar muxtelif argumentlerle islemektedir. Bu paradigma:
+ Kod tekrarini engelleyir ve eyni kodun ferqli sertler ucun tekrar tekrar islemesini temin edir.
+ Kodun oxunabilirliyini artirmaqda ve kod analizini daha asan hala getirmektedir.
+ Programa dizayn verilme merhelesinde dizaeynere modulyar yanasma teqdim etmekdedir.
+
+Bir dilin funksional olmasi dilde funksiya ve prosedure benzeri ozelliklerin olmasi ile belli olur.
+
+3. Logic paradigm - Mentiqsel paradigma.
+ Mentiqsel paradigma: riyaziyyatdaki mentiqi temel alir. Programdaki ifadeler mentiqsel ifadeler seklinde yazilir. Bu paradigmanin digerlerinden ferqi kommentariya ile yazila bilmesidir.
+
+Bir mentiq programi aksioma qrupundan ve bir hedef cumlesinden ibaretdir. Hedef cumlesinin dogrulugu ucun aksiomlarin yeterli olub olmadiginin tespiti ucun qaydalar vardir. Mentiq programinin islemesi aksiomlardan hedef cumlesinin isbatinin qurulmasina muvafiqdir. Mentiq paradiqmasi sayesinde proqramlar haqqinda muhakemeler ede bilerik.
+
+4.Object-oriented paradigm - Obyekt yonumlu paradigma
+
+Object Oriented Programming 
+ Bu paradigma her kompyuter programinin munasebetdar oldugu birimler ve obyektler qrupunu varsayan bir paradigmadir. 1960ci illerde donanim ve programlama qarma qarisiqliga baslamasiyla birlikte programlama keyfiyyetinin qorunabilmesi ve yeniden isledilebilirliyi artirmaq ucun dusunulmusdur. Bu paradigmada esas olan sey eylemler ve bu eylemlerin mentiqinden cox obyektler ve verilenlerdir. Bu paradigmada esas istediymiz sey deyisdirmek istediyimiz obyektlerin ve bu obyektleri deyistiren seyin mentiqi o qeder de onemli deyil. Uzerinde deyisiklik etmek istediyimiz butun obyektleri ve obyektlerin bir biri ile olan elaqelerini belli bir model altina getiririk. Obyektler metodlar (methods) ve xususiyyetler (attributes)`den ibaret olur. Xususiyyetler obyektlerin sahib oldugu verilenlenlere, metodlar ise bunlar uzerinde aparilacaq emeliyyatlara qarsiliq gelir. 
